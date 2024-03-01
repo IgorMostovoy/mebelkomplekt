@@ -1,17 +1,16 @@
-.input{
-    font-family: SangBleuSunrise-Regular-WebXL;
-    width:80%;
-    letter-spacing: 0px;
-    padding: 5px;
-    text-align: center;
-    font-size: 18px;
-border: 1px solid black;
-    border-radius: 12px;
-    transition: border-bottom 0.1s ease;
-
+.input {
+  font-family: SangBleuSunrise-Regular-WebXL;
+  width: 80%;
+  letter-spacing: 0px;
+  padding: 5px;
+  text-align: center;
+  font-size: 18px;
+  border: 1px solid black;
+  border-radius: 12px;
+  transition: border-bottom 0.1s ease;
 }
 
-.filled{
-    border: 1px solid	#32CD32;
-    background-color: 	rgba(50,205,50, 0.1);
+.filled {
+  border: 1px solid #32cd32;
+  background-color: rgba(50, 205, 50, 0.1);
 }

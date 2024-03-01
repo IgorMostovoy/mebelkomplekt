@@ -1,52 +1,57 @@
-
 * {
-    outline: 0;
-    padding: 0;
-    margin: 0;
-    border: 0;
-
+  outline: 0;
+  padding: 0;
+  margin: 0;
+  border: 0;
 }
 
 body {
-    overflow-x: hidden;
-
+  overflow-x: hidden;
 }
 
 @font-face {
-    font-family: 'SangBleuSunrise-Air-WebXL';
-    src: url("./assets/fonts/SangBleuSunrise-Air-WebXL.otf") format('OpenType');
+  font-family: "SangBleuSunrise-Air-WebXL";
+  src: url("./assets/fonts/SangBleuSunrise-Air-WebXL.otf") format("OpenType");
 }
 
 @font-face {
-    font-family: 'SangBleuSunrise-Regular-WebXL';
-    src: local('SangBleuSunrise-Regular-WebXL'), url("./assets/fonts/SangBleuSunrise-Regular-WebXL.otf") format('OpenType');
+  font-family: "SangBleuSunrise-Regular-WebXL";
+  src:
+    local("SangBleuSunrise-Regular-WebXL"),
+    url("./assets/fonts/SangBleuSunrise-Regular-WebXL.otf") format("OpenType");
 }
 
 @font-face {
-    font-family: 'SangBleuSunrise-Bold-WebXL';
-    src: local('SangBleuSunrise-Bold-WebXL'), url("./assets/fonts/SangBleuSunrise-Bold-WebXL.otf") format('OpenType');
+  font-family: "SangBleuSunrise-Bold-WebXL";
+  src:
+    local("SangBleuSunrise-Bold-WebXL"),
+    url("./assets/fonts/SangBleuSunrise-Bold-WebXL.otf") format("OpenType");
 }
 
 @font-face {
-    font-family: 'SangBleuSunrise-Light-WebXL';
-    src: local('SangBleuSunrise-Light-WebXL'), url("./assets/fonts/SangBleuSunrise-Light-WebXL.otf") format('OpenType');
+  font-family: "SangBleuSunrise-Light-WebXL";
+  src:
+    local("SangBleuSunrise-Light-WebXL"),
+    url("./assets/fonts/SangBleuSunrise-Light-WebXL.otf") format("OpenType");
 }
 
 @font-face {
-    font-family: 'SangBleuSunrise-Light-WebXL';
-    src: local('SangBleuSunrise-Light-WebXL'), url("./assets/fonts/SangBleuSunrise-Light-WebXL.otf") format('OpenType');
-}
-
-
-@font-face {
-    font-family: 'SangBleuSunrise-Livre-WebXL';
-    src: local('SangBleuSunrise-Livre-WebXL'), url("./assets/fonts/SangBleuSunrise-Livre-WebXL.otf") format('OpenType');
+  font-family: "SangBleuSunrise-Light-WebXL";
+  src:
+    local("SangBleuSunrise-Light-WebXL"),
+    url("./assets/fonts/SangBleuSunrise-Light-WebXL.otf") format("OpenType");
 }
 
 @font-face {
-    font-family: 'SangBleuSunrise-Medium-WebXL';
-    src: local('SangBleuSunrise-Medium-WebXL'), url("./assets/fonts/SangBleuSunrise-Medium-WebXL.otf") format('OpenType');
+  font-family: "SangBleuSunrise-Livre-WebXL";
+  src:
+    local("SangBleuSunrise-Livre-WebXL"),
+    url("./assets/fonts/SangBleuSunrise-Livre-WebXL.otf") format("OpenType");
 }
 
-
-
+@font-face {
+  font-family: "SangBleuSunrise-Medium-WebXL";
+  src:
+    local("SangBleuSunrise-Medium-WebXL"),
+    url("./assets/fonts/SangBleuSunrise-Medium-WebXL.otf") format("OpenType");
+}

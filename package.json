@@ -2,6 +2,11 @@
   "name": "mebelkomplekt",
   "version": "0.1.0",
   "private": true,
+  "prettier": {
+    "semi": true,
+    "singleQuote": true,
+    "eslintIntegration": true
+  },
   "dependencies": {
     "@chakra-ui/icons": "^2.1.1",
     "@chakra-ui/react": "^2.8.2",
@@ -17,6 +22,8 @@
     "@types/node": "^16.18.85",
     "@types/react": "^18.2.60",
     "@types/react-dom": "^18.2.19",
+    "@typescript-eslint/eslint-plugin": "^6.4.0",
+    "@typescript-eslint/parser": "^6.0.0",
     "axios": "^1.6.7",
     "framer-motion": "^11.0.6",
     "react": "^18.2.0",
@@ -34,6 +41,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "format": "prettier --write \"**/*.+(js|jsx|json|css|scss|md)\"",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -61,6 +69,12 @@
     "@types/react-input-mask": "^3.0.5",
     "@types/react-responsive-masonry": "^2.1.3",
     "@types/react-slick": "^0.23.13",
-    "@types/uniqid": "^5.3.4"
+    "@types/uniqid": "^5.3.4",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-config-standard-with-typescript": "^43.0.1",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-prettier": "^5.1.3",
+    "prettier": "^3.2.5"
   }
 }

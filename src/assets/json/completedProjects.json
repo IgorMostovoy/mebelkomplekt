@@ -28,14 +28,14 @@
       "До Камчатки вышла 20 000 руб."
     ],
     "images": [
-      {"url": "/completedKitchens/first/1.webp", "width": 600, "height": 700},
-      {"url": "/completedKitchens/first/2.webp", "width": 400, "height": 500},
-      {"url": "/completedKitchens/first/3.webp", "width": 600, "height": 300},
-      {"url": "/completedKitchens/first/4.webp", "width": 500, "height": 500},
-      {"url": "/completedKitchens/first/5.webp", "width": 400, "height": 200},
-      {"url": "/completedKitchens/first/6.webp", "width": 500, "height": 500},
-      {"url": "/completedKitchens/first/7.webp", "width": 400, "height": 300},
-      {"url": "/completedKitchens/first/8.webp", "width": 500, "height": 300}
+      { "url": "/completedKitchens/first/1.webp", "width": 600, "height": 700 },
+      { "url": "/completedKitchens/first/2.webp", "width": 400, "height": 500 },
+      { "url": "/completedKitchens/first/3.webp", "width": 600, "height": 300 },
+      { "url": "/completedKitchens/first/4.webp", "width": 500, "height": 500 },
+      { "url": "/completedKitchens/first/5.webp", "width": 400, "height": 200 },
+      { "url": "/completedKitchens/first/6.webp", "width": 500, "height": 500 },
+      { "url": "/completedKitchens/first/7.webp", "width": 400, "height": 300 },
+      { "url": "/completedKitchens/first/8.webp", "width": 500, "height": 300 }
     ]
   },
   {
@@ -63,10 +63,22 @@
       "Сборка/установка - оговаривается отдельно за дополнительную плату"
     ],
     "images": [
-      {"url": "/completedKitchens/second/1.webp", "width": 400, "height": 100},
-      {"url": "/completedKitchens/second/2.webp", "width": 400, "height": 200},
-      {"url": "/completedKitchens/second/3.webp", "width": 400, "height": 200},
-      {"url": "/completedKitchens/second/4.webp", "width": 400, "height": 200}
+      {
+        "url": "/completedKitchens/second/1.webp",
+        "width": 400,
+        "height": 100
+      },
+      {
+        "url": "/completedKitchens/second/2.webp",
+        "width": 400,
+        "height": 200
+      },
+      {
+        "url": "/completedKitchens/second/3.webp",
+        "width": 400,
+        "height": 200
+      },
+      { "url": "/completedKitchens/second/4.webp", "width": 400, "height": 200 }
     ]
   },
   {
@@ -91,9 +103,9 @@
       "Доставка в г. Москва - 7 000 руб."
     ],
     "images": [
-      {"url": "/completedKitchens/third/1.webp", "width": 300, "height": 200},
-      {"url": "/completedKitchens/third/2.webp", "width": 300, "height": 200},
-      {"url": "/completedKitchens/third/3.webp", "width": 300, "height": 200}
+      { "url": "/completedKitchens/third/1.webp", "width": 300, "height": 200 },
+      { "url": "/completedKitchens/third/2.webp", "width": 300, "height": 200 },
+      { "url": "/completedKitchens/third/3.webp", "width": 300, "height": 200 }
     ]
   },
   {
@@ -115,9 +127,17 @@
       "Доставка в г. Москва обошлась - 6000 руб"
     ],
     "images": [
-      {"url": "/completedKitchens/fourth/1.webp", "width": 300, "height": 200},
-      {"url": "/completedKitchens/fourth/2.webp", "width": 300, "height": 200},
-      {"url": "/completedKitchens/fourth/3.webp", "width": 300, "height": 200}
+      {
+        "url": "/completedKitchens/fourth/1.webp",
+        "width": 300,
+        "height": 200
+      },
+      {
+        "url": "/completedKitchens/fourth/2.webp",
+        "width": 300,
+        "height": 200
+      },
+      { "url": "/completedKitchens/fourth/3.webp", "width": 300, "height": 200 }
     ]
   },
   {
@@ -128,15 +148,12 @@
     "size": "1300*2900",
     "place": "Реализованный проект в г.Петропавловск-камчатский",
 
-
     "material": "АГТ soft touch",
     "table": "Влагостойкая столешница Дуб вотан",
     "furniture": "Немецкие направляющие и петли Hettich",
     "cost": "181 450",
     "handles": "Интегрированные ручки Гола",
-    "additionalDescription": [
-      "Встроенная сушка Siena"
-    ],
+    "additionalDescription": ["Встроенная сушка Siena"],
     "deliveryDescription": [
       "Доставка в ваш регион считается отдельно",
       "Можно доставить в любой регион России.",
@@ -145,13 +162,13 @@
       "До Камчатки вышла 20 000 руб."
     ],
     "images": [
-      {"url": "/completedKitchens/fifth/1.webp", "width": 300, "height": 200},
-      {"url": "/completedKitchens/fifth/2.webp", "width": 300, "height": 200},
-      {"url": "/completedKitchens/fifth/3.webp", "width": 300, "height": 200},
-      {"url": "/completedKitchens/fifth/4.webp", "width": 300, "height": 200},
-      {"url": "/completedKitchens/fifth/5.webp", "width": 300, "height": 200},
-      {"url": "/completedKitchens/fifth/6.webp", "width": 300, "height": 200},
-      {"url": "/completedKitchens/fifth/7.webp", "width": 300, "height": 200}
+      { "url": "/completedKitchens/fifth/1.webp", "width": 300, "height": 200 },
+      { "url": "/completedKitchens/fifth/2.webp", "width": 300, "height": 200 },
+      { "url": "/completedKitchens/fifth/3.webp", "width": 300, "height": 200 },
+      { "url": "/completedKitchens/fifth/4.webp", "width": 300, "height": 200 },
+      { "url": "/completedKitchens/fifth/5.webp", "width": 300, "height": 200 },
+      { "url": "/completedKitchens/fifth/6.webp", "width": 300, "height": 200 },
+      { "url": "/completedKitchens/fifth/7.webp", "width": 300, "height": 200 }
     ]
   },
   {
@@ -180,9 +197,9 @@
       "Сборка/установка - оговаривается отдельно за дополнительную плату"
     ],
     "images": [
-      {"url": "/completedKitchens/sixth/1.webp", "width": 300, "height": 200},
-      {"url": "/completedKitchens/sixth/2.webp", "width": 300, "height": 200},
-      {"url": "/completedKitchens/sixth/3.webp", "width": 300, "height": 200}
+      { "url": "/completedKitchens/sixth/1.webp", "width": 300, "height": 200 },
+      { "url": "/completedKitchens/sixth/2.webp", "width": 300, "height": 200 },
+      { "url": "/completedKitchens/sixth/3.webp", "width": 300, "height": 200 }
     ]
   },
   {
@@ -205,9 +222,21 @@
       "Сборка/установка - оговаривается отдельно за дополнительную плату"
     ],
     "images": [
-      {"url": "/completedKitchens/sevents/1.webp", "width": 300, "height": 200},
-      {"url": "/completedKitchens/sevents/2.webp", "width": 300, "height": 200},
-      {"url": "/completedKitchens/sevents/3.webp", "width": 300, "height": 200}
+      {
+        "url": "/completedKitchens/sevents/1.webp",
+        "width": 300,
+        "height": 200
+      },
+      {
+        "url": "/completedKitchens/sevents/2.webp",
+        "width": 300,
+        "height": 200
+      },
+      {
+        "url": "/completedKitchens/sevents/3.webp",
+        "width": 300,
+        "height": 200
+      }
     ]
   },
   {
@@ -231,8 +260,7 @@
       "Доставка из г Ульяновск до Камчатки: 21 000 руб"
     ],
     "images": [
-      {"url": "/completedKitchens/eights/1.webp", "width": 300, "height": 200}
-
+      { "url": "/completedKitchens/eights/1.webp", "width": 300, "height": 200 }
     ]
   },
   {
@@ -259,8 +287,12 @@
       "Сборка/установка - оговаривается отдельно за дополнительную плату"
     ],
     "images": [
-      {"url": "/completedKitchens/nineth/1.webp", "width": 500, "height": 800},
-      {"url": "/completedKitchens/nineth/2.webp", "width": 500, "height": 900}
+      {
+        "url": "/completedKitchens/nineth/1.webp",
+        "width": 500,
+        "height": 800
+      },
+      { "url": "/completedKitchens/nineth/2.webp", "width": 500, "height": 900 }
     ]
   },
   {
@@ -290,11 +322,11 @@
       "Сборка/установка - оговаривается отдельно за дополнительную плату"
     ],
     "images": [
-      {"url": "/completedKitchens/tenth/1.webp", "width": 300, "height": 200},
-      {"url": "/completedKitchens/tenth/2.webp", "width": 300, "height": 200},
-      {"url": "/completedKitchens/tenth/3.webp", "width": 300, "height": 200},
-      {"url": "/completedKitchens/tenth/4.webp", "width": 300, "height": 200},
-      {"url": "/completedKitchens/tenth/5.webp", "width": 300, "height": 200}
+      { "url": "/completedKitchens/tenth/1.webp", "width": 300, "height": 200 },
+      { "url": "/completedKitchens/tenth/2.webp", "width": 300, "height": 200 },
+      { "url": "/completedKitchens/tenth/3.webp", "width": 300, "height": 200 },
+      { "url": "/completedKitchens/tenth/4.webp", "width": 300, "height": 200 },
+      { "url": "/completedKitchens/tenth/5.webp", "width": 300, "height": 200 }
     ]
   },
   {
@@ -321,8 +353,16 @@
       "Сборка/установка - оговаривается отдельно за дополнительную плату"
     ],
     "images": [
-      {"url": "/completedKitchens/eleventh/1.webp", "width": 500, "height": 200},
-      {"url": "/completedKitchens/eleventh/2.webp", "width": 300, "height": 200}
+      {
+        "url": "/completedKitchens/eleventh/1.webp",
+        "width": 500,
+        "height": 200
+      },
+      {
+        "url": "/completedKitchens/eleventh/2.webp",
+        "width": 300,
+        "height": 200
+      }
     ]
   },
   {
@@ -349,15 +389,46 @@
       "Сборка/установка - оговаривается отдельно за дополнительную плату"
     ],
     "images": [
-      {"url": "/completedKitchens/twelveth/1.webp", "width": 300, "height": 200},
-      {"url": "/completedKitchens/twelveth/2.webp", "width": 300, "height": 200},
-      {"url": "/completedKitchens/twelveth/3.webp", "width": 300, "height": 200},
-      {"url": "/completedKitchens/twelveth/4.webp", "width": 300, "height": 200},
-      {"url": "/completedKitchens/twelveth/5.webp", "width": 300, "height": 200},
-      {"url": "/completedKitchens/twelveth/6.webp", "width": 300, "height": 200},
-      {"url": "/completedKitchens/twelveth/7.webp", "width": 300, "height": 200},
-      {"url": "/completedKitchens/twelveth/8.webp", "width": 300, "height": 200}
-
+      {
+        "url": "/completedKitchens/twelveth/1.webp",
+        "width": 300,
+        "height": 200
+      },
+      {
+        "url": "/completedKitchens/twelveth/2.webp",
+        "width": 300,
+        "height": 200
+      },
+      {
+        "url": "/completedKitchens/twelveth/3.webp",
+        "width": 300,
+        "height": 200
+      },
+      {
+        "url": "/completedKitchens/twelveth/4.webp",
+        "width": 300,
+        "height": 200
+      },
+      {
+        "url": "/completedKitchens/twelveth/5.webp",
+        "width": 300,
+        "height": 200
+      },
+      {
+        "url": "/completedKitchens/twelveth/6.webp",
+        "width": 300,
+        "height": 200
+      },
+      {
+        "url": "/completedKitchens/twelveth/7.webp",
+        "width": 300,
+        "height": 200
+      },
+      {
+        "url": "/completedKitchens/twelveth/8.webp",
+        "width": 300,
+        "height": 200
+      }
     ]
   },
   {
@@ -380,11 +451,31 @@
       "Сборка/установка - оговаривается отдельно за дополнительную плату"
     ],
     "images": [
-      {"url": "/completedKitchens/thirteen/1.webp", "width": 300, "height": 200},
-      {"url": "/completedKitchens/thirteen/2.webp", "width": 300, "height": 200},
-      {"url": "/completedKitchens/thirteen/3.webp", "width": 300, "height": 200},
-      {"url": "/completedKitchens/thirteen/4.webp", "width": 300, "height": 200},
-      {"url": "/completedKitchens/thirteen/5.webp", "width": 300, "height": 200}
+      {
+        "url": "/completedKitchens/thirteen/1.webp",
+        "width": 300,
+        "height": 200
+      },
+      {
+        "url": "/completedKitchens/thirteen/2.webp",
+        "width": 300,
+        "height": 200
+      },
+      {
+        "url": "/completedKitchens/thirteen/3.webp",
+        "width": 300,
+        "height": 200
+      },
+      {
+        "url": "/completedKitchens/thirteen/4.webp",
+        "width": 300,
+        "height": 200
+      },
+      {
+        "url": "/completedKitchens/thirteen/5.webp",
+        "width": 300,
+        "height": 200
+      }
     ]
   },
   {
@@ -412,10 +503,26 @@
       "Сборка/установка - оговаривается отдельно за дополнительную плату"
     ],
     "images": [
-      {"url": "/completedKitchens/fourteen/1.webp", "width": 300, "height": 200},
-      {"url": "/completedKitchens/fourteen/2.webp", "width": 300, "height": 200},
-      {"url": "/completedKitchens/fourteen/3.webp", "width": 300, "height": 200},
-      {"url": "/completedKitchens/fourteen/4.webp", "width": 300, "height": 200}
+      {
+        "url": "/completedKitchens/fourteen/1.webp",
+        "width": 300,
+        "height": 200
+      },
+      {
+        "url": "/completedKitchens/fourteen/2.webp",
+        "width": 300,
+        "height": 200
+      },
+      {
+        "url": "/completedKitchens/fourteen/3.webp",
+        "width": 300,
+        "height": 200
+      },
+      {
+        "url": "/completedKitchens/fourteen/4.webp",
+        "width": 300,
+        "height": 200
+      }
     ]
   }
 ]

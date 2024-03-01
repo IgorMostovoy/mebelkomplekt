@@ -1,14 +1,11 @@
-import {extendTheme} from "@chakra-ui/react";
-import {colors} from "./colorVariants";
-import {buttonTheme} from "./customButton";
-import {dividerTheme} from "./customDivider";
-import {cardTheme} from "./customCard";
-import {tooltipTheme} from "./tooltipVariants";
-import {checkboxTheme} from "./checkBoxVariants";
-import {modalTheme} from "./callBackPopUp";
-
-
-
+import { extendTheme } from '@chakra-ui/react';
+import { colors } from './colorVariants';
+import { buttonTheme } from './customButton';
+import { dividerTheme } from './customDivider';
+import { cardTheme } from './customCard';
+import { tooltipTheme } from './tooltipVariants';
+import { checkboxTheme } from './checkBoxVariants';
+import { modalTheme } from './callBackPopUp';
 
 export const theme = extendTheme({
   fonts: {
@@ -23,6 +20,5 @@ export const theme = extendTheme({
     Divider: dividerTheme,
     Button: buttonTheme,
     Tooltip: tooltipTheme,
-  }
-})
-
+  },
+});
