@@ -1,0 +1,31 @@
+.next_arrow{
+    right: 5px;
+}
+
+.prev_arrow{
+    left: 5px;
+}
+
+.next_arrow, .prev_arrow{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 5%;
+    transform: translateY(-100%);
+    z-index: 1;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.next_arrow:before, .prev_arrow:before {
+    content: '';
+    background-image: url("../assets/rowSlider.svg");
+    padding: 30px;
+
+}
+
+.next_arrow:before{
+    transform: rotate(180deg);
+}

@@ -1,0 +1,421 @@
+[
+  {
+    "id": 0,
+    "title": "first",
+    "alt": "first",
+    "style": "Современные",
+    "size": "2650*2200",
+    "place": "Реализованный проект в г.Петропавловск-камчатский",
+    "material": "МДФ ПВХ",
+    "fasadeColor": "Лофт",
+    "karkasColor": "Антрацит",
+    "table": "Дуб вотан",
+    "furniture": "Немецкие механизмы Hettich",
+    "cost": "185 000",
+    "handles": "Интегрированные ручки Гола",
+    "additionalDescription": [
+      "Встроенная сушка Siena",
+      "Все на доводчиках",
+      "Металлическая барная нога",
+      "Остров глубиной 80 см",
+      "Два Еврозапила на столешницах"
+    ],
+    "deliveryDescription": [
+      "Доставка в ваш регион считается отдельно",
+      "Можно доставить в любой регион России.",
+      "Доставка до подъезда клиента включена в стоимость",
+      "Сборка/установка - оговаривается отдельно за дополнительную плату",
+      "До Камчатки вышла 20 000 руб."
+    ],
+    "images": [
+      {"url": "/completedKitchens/first/1.webp", "width": 600, "height": 700},
+      {"url": "/completedKitchens/first/2.webp", "width": 400, "height": 500},
+      {"url": "/completedKitchens/first/3.webp", "width": 600, "height": 300},
+      {"url": "/completedKitchens/first/4.webp", "width": 500, "height": 500},
+      {"url": "/completedKitchens/first/5.webp", "width": 400, "height": 200},
+      {"url": "/completedKitchens/first/6.webp", "width": 500, "height": 500},
+      {"url": "/completedKitchens/first/7.webp", "width": 400, "height": 300},
+      {"url": "/completedKitchens/first/8.webp", "width": 500, "height": 300}
+    ]
+  },
+  {
+    "id": 1,
+    "title": "second",
+    "alt": "second",
+    "style": "Современные",
+    "size": "2100*3000",
+    "place": "Реализованный проект в г.Москва ул.Нижняя Хохловка",
+    "material": "МДФ Эмаль",
+    "milling": "Пиатто + Геометрия",
+    "fasadeColor": "Выкрашена по палитре Ral в два цвета",
+    "table": "Влагостойкая 38 мм: Антарктида",
+    "furniture": "Немецкие механизмы Hettich",
+    "cost": "280 000",
+    "handles": "Интегрированные ручки Гола черного цвета",
+    "additionalDescription": [
+      "Цоколь в цвет фасадов",
+      "Стеновая панель и плинтус в цвет столешницы"
+    ],
+    "deliveryDescription": [
+      "Доставка в ваш регион считается отдельно",
+      "Можно доставить в любой регион России.",
+      "Доставка до подъезда клиента включена в стоимость",
+      "Сборка/установка - оговаривается отдельно за дополнительную плату"
+    ],
+    "images": [
+      {"url": "/completedKitchens/second/1.webp", "width": 400, "height": 100},
+      {"url": "/completedKitchens/second/2.webp", "width": 400, "height": 200},
+      {"url": "/completedKitchens/second/3.webp", "width": 400, "height": 200},
+      {"url": "/completedKitchens/second/4.webp", "width": 400, "height": 200}
+    ]
+  },
+  {
+    "id": 2,
+    "title": "third",
+    "alt": "third",
+    "style": "Современные",
+    "size": "1400*2250",
+    "place": "Реализованный проект в г.Москва ЖК Румянцево парк",
+    "material": "МДФ ПВХ",
+    "milling": "Мыло-4 + Фенсе",
+    "table": "Влагостойкая 38 мм: Дуб вотан",
+    "furniture": "Немецкие механизмы Hettich",
+    "cost": "142 000",
+    "handles": "Ручки под золото + ру-толкатель",
+    "installation": "20 000 рублей",
+    "deliveryDescription": [
+      "Доставка в ваш регион считается отдельно",
+      "Можно доставить в любой регион России.",
+      "Доставка до подъезда клиента включена в стоимость",
+      "Сборка/установка - оговаривается отдельно за дополнительную плату",
+      "Доставка в г. Москва - 7 000 руб."
+    ],
+    "images": [
+      {"url": "/completedKitchens/third/1.webp", "width": 300, "height": 200},
+      {"url": "/completedKitchens/third/2.webp", "width": 300, "height": 200},
+      {"url": "/completedKitchens/third/3.webp", "width": 300, "height": 200}
+    ]
+  },
+  {
+    "id": 3,
+    "title": "fourth",
+    "alt": "fourth",
+    "style": "Современные",
+    "size": "1400*2600",
+    "place": "Реализованный проект в г.Москва ЖК Бусиновский парк",
+    "table": "Влагостойкая столешница Дуб вотан",
+    "furniture": "Немецкие направляющие и петли Hettich",
+    "cost": "78 000",
+    "handles": "Рейтинговые ручки",
+    "deliveryDescription": [
+      "Доставка в ваш регион считается отдельно",
+      "Можно доставить в любой регион России.",
+      "Доставка до подъезда клиента включена в стоимость",
+      "Сборка/установка - оговаривается отдельно за дополнительную плату",
+      "Доставка в г. Москва обошлась - 6000 руб"
+    ],
+    "images": [
+      {"url": "/completedKitchens/fourth/1.webp", "width": 300, "height": 200},
+      {"url": "/completedKitchens/fourth/2.webp", "width": 300, "height": 200},
+      {"url": "/completedKitchens/fourth/3.webp", "width": 300, "height": 200}
+    ]
+  },
+  {
+    "id": 4,
+    "title": "fifth",
+    "alt": "fifth",
+    "style": "Современные",
+    "size": "1300*2900",
+    "place": "Реализованный проект в г.Петропавловск-камчатский",
+
+
+    "material": "АГТ soft touch",
+    "table": "Влагостойкая столешница Дуб вотан",
+    "furniture": "Немецкие направляющие и петли Hettich",
+    "cost": "181 450",
+    "handles": "Интегрированные ручки Гола",
+    "additionalDescription": [
+      "Встроенная сушка Siena"
+    ],
+    "deliveryDescription": [
+      "Доставка в ваш регион считается отдельно",
+      "Можно доставить в любой регион России.",
+      "Доставка до подъезда клиента включена в стоимость",
+      "Сборка/установка - оговаривается отдельно за дополнительную плату",
+      "До Камчатки вышла 20 000 руб."
+    ],
+    "images": [
+      {"url": "/completedKitchens/fifth/1.webp", "width": 300, "height": 200},
+      {"url": "/completedKitchens/fifth/2.webp", "width": 300, "height": 200},
+      {"url": "/completedKitchens/fifth/3.webp", "width": 300, "height": 200},
+      {"url": "/completedKitchens/fifth/4.webp", "width": 300, "height": 200},
+      {"url": "/completedKitchens/fifth/5.webp", "width": 300, "height": 200},
+      {"url": "/completedKitchens/fifth/6.webp", "width": 300, "height": 200},
+      {"url": "/completedKitchens/fifth/7.webp", "width": 300, "height": 200}
+    ]
+  },
+  {
+    "id": 5,
+    "title": "sixth",
+    "alt": "sixth",
+    "style": "Современные",
+    "size": "4000",
+    "place": "Реализованный проект в г.Москва",
+    "materialTitle": "Материал фасадов",
+    "material": "МДФ ПВХ",
+    "milling": "Мыло-4",
+    "table": "Влагостойкая 38 мм: Дуб вотан",
+    "furniture": "Немецкие механизмы Hettich",
+    "cost": "230 000",
+    "drying": "Встроенная сушка Siena",
+    "handles": "Интегрированные ручки Гола серебристого цвета",
+    "additionalDescription": [
+      "Встроенная сушка Siena",
+      "Корзина под мойкой Blum"
+    ],
+    "deliveryDescription": [
+      "Доставка в ваш регион считается отдельно",
+      "Можно доставить в любой регион России.",
+      "Доставка до подъезда клиента включена в стоимость",
+      "Сборка/установка - оговаривается отдельно за дополнительную плату"
+    ],
+    "images": [
+      {"url": "/completedKitchens/sixth/1.webp", "width": 300, "height": 200},
+      {"url": "/completedKitchens/sixth/2.webp", "width": 300, "height": 200},
+      {"url": "/completedKitchens/sixth/3.webp", "width": 300, "height": 200}
+    ]
+  },
+  {
+    "id": 6,
+    "title": "seventh",
+    "alt": "seventh",
+    "style": "Современные",
+    "size": "1800*3800",
+    "place": "Реализованный проект в г.Москва",
+    "material": "МДФ ПВХ",
+    "fasadeColor": "Лофт Тадж",
+    "table": "Влагостойкая столешница 38 мм дуб Вотан",
+    "furniture": "Немецкая фурнитура Hettich на доводчиках",
+    "cost": "165 300",
+    "handles": "Ручки черный профиль",
+    "deliveryDescription": [
+      "Доставка в ваш регион считается отдельно",
+      "Можно доставить в любой регион России.",
+      "Доставка до подъезда клиента включена в стоимость",
+      "Сборка/установка - оговаривается отдельно за дополнительную плату"
+    ],
+    "images": [
+      {"url": "/completedKitchens/sevents/1.webp", "width": 300, "height": 200},
+      {"url": "/completedKitchens/sevents/2.webp", "width": 300, "height": 200},
+      {"url": "/completedKitchens/sevents/3.webp", "width": 300, "height": 200}
+    ]
+  },
+  {
+    "id": 7,
+    "title": "eights",
+    "alt": "eights",
+    "style": "Современные",
+    "size": "2650*2200",
+    "place": "Реализованный проект в г.Петропавловск-камчатский",
+    "material": "МДФ ПВХ",
+    "milling": "Мыло + Фенсе (рефленые)",
+    "table": "Влагостойкая Мрамор тиффани",
+    "furniture": "Немецкая фурнитура Hettich: петли на доводчиках и ящики полного выдвижения с доводчиками",
+    "cost": "140 000",
+    "handles": "Интегрированные ручки Гола",
+    "deliveryDescription": [
+      "Доставка в ваш регион считается отдельно",
+      "Можно доставить в любой регион России.",
+      "Доставка до подъезда клиента включена в стоимость",
+      "Сборка/установка - оговаривается отдельно за дополнительную плату",
+      "Доставка из г Ульяновск до Камчатки: 21 000 руб"
+    ],
+    "images": [
+      {"url": "/completedKitchens/eights/1.webp", "width": 300, "height": 200}
+
+    ]
+  },
+  {
+    "id": 8,
+    "title": "nineth",
+    "alt": "nineth",
+    "style": "Современные",
+    "size": "2650*2200",
+    "place": "Реализованный проект в г.Новороссийск",
+    "material": "Панели АГТ soft touch",
+    "fasadeColor": "Белый верх, серый низ",
+    "karkasColor": "Белый верх, антрацит низ",
+    "table": "Влагостойкая Дуб вотан",
+    "furniture": "Петли с доводчиками Hettich",
+    "cost": "160 200",
+    "handles": "Интегрированные ручки Гола черного цвета",
+    "additionalDescription": [
+      "Стеновая панель и плинтус в цвет столешницы Дуб вотан"
+    ],
+    "deliveryDescription": [
+      "Доставка в ваш регион считается отдельно",
+      "Можно доставить в любой регион России.",
+      "Доставка до подъезда клиента включена в стоимость",
+      "Сборка/установка - оговаривается отдельно за дополнительную плату"
+    ],
+    "images": [
+      {"url": "/completedKitchens/nineth/1.webp", "width": 500, "height": 800},
+      {"url": "/completedKitchens/nineth/2.webp", "width": 500, "height": 900}
+    ]
+  },
+  {
+    "id": 9,
+    "title": "tenth",
+    "alt": "tenth",
+    "style": "Современные",
+    "size": "3400*2600",
+    "place": "Реализованный проект в Адыгее, п.Яблоновский",
+    "materialTitle": "Материал фасадов",
+    "material": "МДФ ПВХ",
+    "fasadeColorTitle": "Цвет фасадов",
+    "fasadeColor": "Керамик",
+    "karkasColor": "Дуб Шамони светлый",
+    "table": "26 мм - Марквина чёрная",
+    "furniture": "Петли Hettich на доводчиках",
+    "cost": "148 000",
+    "additionalDescription": [
+      "Ящики частично полного выдвижения, частично не полного (для удешевления)",
+      "В зоне подоконника увеличена столешница",
+      "Все коммуникации от газового котла и стиральной машинки - скрыты за элементами кухни."
+    ],
+    "deliveryDescription": [
+      "Доставка в ваш регион считается отдельно",
+      "Можно доставить в любой регион России.",
+      "Доставка до подъезда клиента включена в стоимость",
+      "Сборка/установка - оговаривается отдельно за дополнительную плату"
+    ],
+    "images": [
+      {"url": "/completedKitchens/tenth/1.webp", "width": 300, "height": 200},
+      {"url": "/completedKitchens/tenth/2.webp", "width": 300, "height": 200},
+      {"url": "/completedKitchens/tenth/3.webp", "width": 300, "height": 200},
+      {"url": "/completedKitchens/tenth/4.webp", "width": 300, "height": 200},
+      {"url": "/completedKitchens/tenth/5.webp", "width": 300, "height": 200}
+    ]
+  },
+  {
+    "id": 10,
+    "title": "eleventh",
+    "alt": "eleventh",
+    "style": "Современные",
+    "size": "1900*3900",
+    "place": "Реализованный проект в г.Москва",
+    "material": "МДФ ПВХ",
+    "fasadeColor": "Графит + дуб Сонома",
+    "table": "Кафель (заказана на стороннем заводе)",
+    "furniture": "Немецкие механизмы Hettich с доводчиками на дверцах и ящиках полного выдвижения.",
+    "cost": "176 000",
+    "handles": "Интегрированные ручки Гола - серебро + ру-толкатель",
+    "additionalDescription": [
+      "Встроенная сушка Siena",
+      "Цена указана БЕЗ столешницы и фартука"
+    ],
+    "deliveryDescription": [
+      "Доставка в ваш регион считается отдельно",
+      "Можно доставить в любой регион России.",
+      "Доставка до подъезда клиента включена в стоимость",
+      "Сборка/установка - оговаривается отдельно за дополнительную плату"
+    ],
+    "images": [
+      {"url": "/completedKitchens/eleventh/1.webp", "width": 500, "height": 200},
+      {"url": "/completedKitchens/eleventh/2.webp", "width": 300, "height": 200}
+    ]
+  },
+  {
+    "id": 11,
+    "title": "twelveth",
+    "alt": "twelveth",
+    "style": "Современные",
+    "size": "2400*2850",
+    "place": "Реализованный проект в г.Москва",
+    "milling": "Мыло",
+    "material": "МДФ ПВХ",
+    "fasadeColor": "Белый Тальк + Софора давиди",
+    "table": "Дуб Вотан 38 мм влагостойкая без завала",
+    "furniture": "Немецкие механизмы Hettich с доводчиками на дверцах и ящиках полного выдвижения.",
+    "cost": "176 000",
+    "handles": "Интегрированные ручки Гола + ручки профиль + ру-толкатель",
+    "additionalDescription": [
+      "Кухня состоит из четырёх пеналов до самого потолка по одной стороне и только нижние Столы по другой."
+    ],
+    "deliveryDescription": [
+      "Доставка в ваш регион считается отдельно",
+      "Можно доставить в любой регион России.",
+      "Доставка до подъезда клиента включена в стоимость",
+      "Сборка/установка - оговаривается отдельно за дополнительную плату"
+    ],
+    "images": [
+      {"url": "/completedKitchens/twelveth/1.webp", "width": 300, "height": 200},
+      {"url": "/completedKitchens/twelveth/2.webp", "width": 300, "height": 200},
+      {"url": "/completedKitchens/twelveth/3.webp", "width": 300, "height": 200},
+      {"url": "/completedKitchens/twelveth/4.webp", "width": 300, "height": 200},
+      {"url": "/completedKitchens/twelveth/5.webp", "width": 300, "height": 200},
+      {"url": "/completedKitchens/twelveth/6.webp", "width": 300, "height": 200},
+      {"url": "/completedKitchens/twelveth/7.webp", "width": 300, "height": 200},
+      {"url": "/completedKitchens/twelveth/8.webp", "width": 300, "height": 200}
+
+    ]
+  },
+  {
+    "id": 12,
+    "title": "thirteen",
+    "alt": "thirteen",
+    "style": "Современные",
+    "size": "1000*3200",
+    "place": "Реализованный проект в г.Сочи, район Лазаревское",
+    "material": "МДФ ПВХ",
+    "fasadeColor": "Пудра",
+    "milling": "Телайо + Фенсе",
+    "furniture": "Немецкие механизмы Hettich с доводчиками на дверцах и ящиках полного выдвижения.",
+    "cost": "167 000",
+    "handles": "Интегрированные ручки Гола - цвет: серебро",
+    "deliveryDescription": [
+      "Доставка в ваш регион считается отдельно",
+      "Можно доставить в любой регион России.",
+      "Доставка до подъезда клиента включена в стоимость",
+      "Сборка/установка - оговаривается отдельно за дополнительную плату"
+    ],
+    "images": [
+      {"url": "/completedKitchens/thirteen/1.webp", "width": 300, "height": 200},
+      {"url": "/completedKitchens/thirteen/2.webp", "width": 300, "height": 200},
+      {"url": "/completedKitchens/thirteen/3.webp", "width": 300, "height": 200},
+      {"url": "/completedKitchens/thirteen/4.webp", "width": 300, "height": 200},
+      {"url": "/completedKitchens/thirteen/5.webp", "width": 300, "height": 200}
+    ]
+  },
+  {
+    "id": 13,
+    "title": "fourteen",
+    "alt": "fourteen",
+    "style": "Современные",
+    "size": "2180*2200",
+    "place": "Реализованный проект в г.Москва",
+    "material": "МДФ ПВХ",
+    "fasadeColor": "Тальк",
+    "table": "Влагостойкая 38 мм Дуб вотан",
+    "furniture": "Немецкие механизмы Hettich с доводчиками на дверцах и ящиках полного выдвижения",
+    "cost": "143 200",
+    "additionalDescription": [
+      "Встроенная сушка Siena",
+      "Встроенный холодильник",
+      "Встроенная посудомоечная машинка",
+      "Стиральная машинка под столешницей и фасадами"
+    ],
+    "deliveryDescription": [
+      "Доставка в ваш регион считается отдельно",
+      "Можно доставить в любой регион России.",
+      "Доставка до подъезда клиента включена в стоимость",
+      "Сборка/установка - оговаривается отдельно за дополнительную плату"
+    ],
+    "images": [
+      {"url": "/completedKitchens/fourteen/1.webp", "width": 300, "height": 200},
+      {"url": "/completedKitchens/fourteen/2.webp", "width": 300, "height": 200},
+      {"url": "/completedKitchens/fourteen/3.webp", "width": 300, "height": 200},
+      {"url": "/completedKitchens/fourteen/4.webp", "width": 300, "height": 200}
+    ]
+  }
+]

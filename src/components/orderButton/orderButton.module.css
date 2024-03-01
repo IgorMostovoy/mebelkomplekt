@@ -1,0 +1,18 @@
+.inputMask{
+font-family: SangBleuSunrise-Regular-WebXL;
+    width:100%;
+    display: block;
+    font-size: 25px;
+    border-bottom:1.5px solid rgba(0,0,0,0.08);
+    transition: border-bottom 0.1s ease;
+
+}
+.inputMask:focus{
+    border-bottom:1.5px solid black;
+}
+
+.label{
+    font-family: "Open Sans";
+    line-height: 1.5;
+    font-size: 14px;
+}

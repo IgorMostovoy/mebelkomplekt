@@ -1,0 +1,800 @@
+[
+  {
+    "id": 0,
+    "title": "Cleo",
+    "style": "Современные",
+    "cost": "200 000",
+    "materials": {
+      "fasade": "МДФ",
+      "karkas": "ЛДСП"
+    },
+    "images": [
+      "/catalogKitchens/Cleo/imgKitchen/1.webp",
+      "/catalogKitchens/Cleo/imgKitchen/2.webp",
+      "/catalogKitchens/Cleo/imgKitchen/3.webp",
+      "/catalogKitchens/Cleo/imgKitchen/4.webp",
+      "/catalogKitchens/Cleo/imgKitchen/5.webp",
+      "/catalogKitchens/Cleo/imgKitchen/6.webp",
+      "/catalogKitchens/Cleo/imgKitchen/7.webp"
+    ],
+    "alt": "Cleo",
+    "description": "Cleo – эксклюзивная модель мебели для кухни с использованием современных материалов, разработанная специально для мебельной фабрики «Мебелькомплект».\n\nСовременные технологии делают эксплуатацию Cleo удобной, легкой и не принужденной. Фасады, выполненные по специальной технологии, не оставляют отпечатков от пальцев. Возможность применения дизайнерской кромки, подчеркнет твою индивидуальность.\n\nВ коллекции Cleo нашлось место и древесным фактурам, поры которых полностью синхронизированы с натуральным деревом.\n\nСовременная фурнитура от компании Hettich — гарантирует надежную и долговечную эксплуатацию.",
+    "characteristics": {
+      "fasadeTitle": "Фасад",
+      "fasadeDescribe": "Cleo (ЛМДФ покрытый лаком UV отверждения) в сочетании с Алюминиевой рамкой 3",
+      "karkasTitle": "Каркас",
+      "karkasDescribe": "ЛДСП Антрацит",
+      "glassTitle": "Стекло",
+      "glassDescribe": "Тонкая алюминиевая рамка со стеклом «Риббет гласс»",
+      "tabletopTitle": "Столешница",
+      "tabletopDescribe": "0235 Сохо",
+      "furnitureTitle": "Фурнитура",
+      "furnitureDescribe": "Hettich"
+    },
+    "softtouch": {
+      "softtouchImg": "/catalogKitchens/Cleo/softtouch.gif"
+    },
+    "possibleColorsTitle": "Фасады Cleo",
+    "possibleColors": [
+      {
+        "possibleColorsImg": "/catalogKitchens/Cleo/imgColors/alpWhite.png",
+        "possibleColorsSubtitle": "Альпийский белый"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Cleo/imgColors/whiteOak.png",
+        "possibleColorsSubtitle": "Дуб белёный"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Cleo/imgColors/black.png",
+        "possibleColorsSubtitle": "Чёрный"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Cleo/imgColors/blackOak.png",
+        "possibleColorsSubtitle": "Дуб чёрный"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Cleo/imgColors/brownOak.png",
+        "possibleColorsSubtitle": "Дуб тёмно-коричневый"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Cleo/imgColors/dustyGray.png",
+        "possibleColorsSubtitle": "Пыльный серый"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Cleo/imgColors/kashemirGrey.png",
+        "possibleColorsSubtitle": "Кашемир серый"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Cleo/imgColors/supermatWhite.png",
+        "possibleColorsSubtitle": "Супермат бежевый"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Cleo/imgColors/graphitBlack.png",
+        "possibleColorsSubtitle": "Графит чёрный"
+      }
+    ],
+    "additionalColorTitle": "Дизайнерская кромка",
+    "additionalColor": [
+      {
+        "additionalImg": "/catalogKitchens/Cleo/imgAdditional/platina.png",
+        "additionalSubtitile": "Состаренная платина"
+      },
+      {
+        "additionalImg": "/catalogKitchens/Cleo/imgAdditional/gold.png",
+        "additionalSubtitile": "Состаренное золото"
+      },
+      {
+        "additionalImg": "/catalogKitchens/Cleo/imgAdditional/aluminium.png",
+        "additionalSubtitile": "Состаренный алюминий"
+      },
+      {
+        "additionalImg": "/catalogKitchens/Cleo/imgAdditional/med.png",
+        "additionalSubtitile": "Старая медь"
+      },
+      {
+        "additionalImg": "/catalogKitchens/Cleo/imgAdditional/bronze.png",
+        "additionalSubtitile": "Состаренная бронза"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "City",
+    "style": "Современные",
+    "cost": "260 000",
+    "materials": {
+      "fasade": "МДФ",
+      "karkas": "ЛДСП"
+    },
+    "images": [
+      "/catalogKitchens/City/imgKitchen/1.webp",
+      "/catalogKitchens/City/imgKitchen/2.webp",
+      "/catalogKitchens/City/imgKitchen/3.webp",
+      "/catalogKitchens/City/imgKitchen/4.webp",
+      "/catalogKitchens/City/imgKitchen/5.webp",
+      "/catalogKitchens/City/imgKitchen/6.webp"
+    ],
+    "alt": "City",
+    "description": "В то время когда города растут, а площадь жилья становится все меньше набор мебели для кухни City идеальное решение для квартиры-студии. Декоративные зеркала, выполненные по специальной технологии, открытые каркасные полки и профильные ручки визуально расширяют пространство, а древесный декор фасадов вносит нотку теплоты. City отвечает современным тенденциям в области дизайна",
+    "characteristics": {
+      "fasadeTitle": "Фасад",
+      "fasadeDescribe": "МДФ покрытый пластиком 9484 «Дуб мореный»",
+      "karkasTitle": "Каркас",
+      "karkasDescribe": "Антрацит",
+      "handleTitle": "Ручка-профиль",
+      "handleDescribe": "Накладная",
+      "tabletopTitle": "Столешница",
+      "tabletopDescribe": "0199 «Версаль серый»",
+      "glassTitle": "Стекло",
+      "glassDescribe": "Фьюжн Антик"
+    },
+    "possibleColorsTitle": "Фасады Пластик",
+    "possibleColors": [
+      {
+        "possibleColorsImg": "/catalogKitchens/City/imgColors/lighterConcrete.png",
+        "possibleColorsSubtitle": "Светлый бетон"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/City/imgColors/honeyOak.png",
+        "possibleColorsSubtitle": "Дуб медовый"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/City/imgColors/antracitGlanz.png",
+        "possibleColorsSubtitle": "Антрацит глянец"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/City/imgColors/concrete.png",
+        "possibleColorsSubtitle": "Бетон"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/City/imgColors/slavyanskOak.png",
+        "possibleColorsSubtitle": "Славянский дуб"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/City/imgColors/whiteGlanz.png",
+        "possibleColorsSubtitle": "Белый глянец"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/City/imgColors/cleantouchBlack.png",
+        "possibleColorsSubtitle": "Clean Touch - Black"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/City/imgColors/cleantouchBurgundy.png",
+        "possibleColorsSubtitle": "Clean Touch - Burgundy"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/City/imgColors/cleantouchCharkoal.png",
+        "possibleColorsSubtitle": "Clean Touch - Charcoal"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/City/imgColors/cleantouchGray.png",
+        "possibleColorsSubtitle": "Clean Touch - Grey"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/City/imgColors/cleantouchPink.png",
+        "possibleColorsSubtitle": "Clean Touch - Powder Pink"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/City/imgColors/cleantouchSaphire.png",
+        "possibleColorsSubtitle": "Clean Touch - Saphire"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/City/imgColors/cleantouchWhite.png",
+        "possibleColorsSubtitle": "Clean Touch - White"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/City/imgColors/wool.png",
+        "possibleColorsSubtitle": "Шерсть"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Fence",
+    "style": "Современные",
+    "cost": "310 000",
+    "materials": {
+      "fasade": "МДФ",
+      "karkas": "ЛДСП"
+    },
+    "images": [
+      "/catalogKitchens/FenceTelaio/imgKitchen/1.jpg",
+      "/catalogKitchens/FenceTelaio/imgKitchen/2.jpg",
+      "/catalogKitchens/FenceTelaio/imgKitchen/3.jpg",
+      "/catalogKitchens/FenceTelaio/imgKitchen/4.jpg",
+      "/catalogKitchens/FenceTelaio/imgKitchen/5.jpg",
+      "/catalogKitchens/FenceTelaio/imgKitchen/6.jpg",
+      "/catalogKitchens/FenceTelaio/imgKitchen/7.jpg"
+    ],
+    "alt": "FenceTelaio",
+    "description": "Fence – современная кухня для интерьеров в стиле Арт-деко, который сегодня стал предметом воодушевления для многих дизайнеров.Прямые, вертикальные линии матовых фасадов, а так же возможность использовать глянцевое покрытие – то что нужно для современного Арт-деко.Одной из особенностей коллекции Fence является выделенная полуколоннами зона для готовки – портальная зона. Полуколонны, придающие плавность переходов, являются изюминкой коллекции.Fence/Telayo могут быть исполнены в эмали, как в матовой так и в глянцевой, а так же в матовой пленке ПВХ. Выбор за вами.",
+    "characteristics": {
+      "fasadeTitle": "Фасад",
+      "fasadeDescribe": " МДФ толщиной 19 мм. только глухой",
+      "coatingTitle": "Покрытие",
+      "coatingDescribe": "Эмаль матовая/эмаль глянцевая, а так же пленка ПВХ",
+      "tabletopTitle": "Столешница",
+      "tabletopDescribe": "Паладина",
+      "karkasTitle": "Каркас",
+      "karkasDescribe": "ЛДСП белый",
+      "handleTitle": "Ручка",
+      "handleDescribe": "Возможно применение только ручки-профиль накладной, ру-толкателя или TipOn и профиль Gola"
+    },
+    "possibleColorsTitle": "Пленки ПВХ",
+    "possibleColors": [
+      {
+        "possibleColorsImg": "/catalogKitchens/FenceTelaio/imgColors/bazalt.png",
+        "possibleColorsSubtitle": "Базальт"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/FenceTelaio/imgColors/whiteMat.png",
+        "possibleColorsSubtitle": "Белая матовая"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/FenceTelaio/imgColors/graphit.png",
+        "possibleColorsSubtitle": "Графит"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/FenceTelaio/imgColors/ceramic.png",
+        "possibleColorsSubtitle": "Керамик"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/FenceTelaio/imgColors/latteGlanz.png",
+        "possibleColorsSubtitle": "Латте глянец"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/FenceTelaio/imgColors/magnolia.png",
+        "possibleColorsSubtitle": "Магнолия"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/FenceTelaio/imgColors/macarun.png",
+        "possibleColorsSubtitle": "Макарун"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/FenceTelaio/imgColors/makiotyGlanz.png",
+        "possibleColorsSubtitle": "Макиотти глянец"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/FenceTelaio/imgColors/marris.png",
+        "possibleColorsSubtitle": "Миррис"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/FenceTelaio/imgColors/moti.png",
+        "possibleColorsSubtitle": "Моти"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/FenceTelaio/imgColors/pikrit.png",
+        "possibleColorsSubtitle": "Пикрит"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/FenceTelaio/imgColors/pudra.png",
+        "possibleColorsSubtitle": "Пудра"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/FenceTelaio/imgColors/riolit.png",
+        "possibleColorsSubtitle": "Риолит"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/FenceTelaio/imgColors/tiramisu.png",
+        "possibleColorsSubtitle": "Тирамиссу"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Geometria",
+    "style": "Современные",
+    "cost": "430 000",
+    "materials": {
+      "fasade": "МДФ",
+      "karkas": "ЛДСП"
+    },
+    "images": [
+      "/catalogKitchens/Geometria/imgKitchen/1.webp",
+      "/catalogKitchens/Geometria/imgKitchen/2.webp",
+      "/catalogKitchens/Geometria/imgKitchen/3.webp",
+      "/catalogKitchens/Geometria/imgKitchen/4.webp",
+      "/catalogKitchens/Geometria/imgKitchen/5.webp",
+      "/catalogKitchens/Geometria/imgKitchen/6.webp"
+    ],
+    "alt": "Geometria",
+    "description": "Мы знаем, что ты ценишь современный стиль, минимализм в интерьере и мебели. Специально для тебя мы разработали Geometria.Прямые, ровные линии на фасадах МДФ покрытых шелковито-матовой эмалью расставляют акценты в кухне и в интерьере.Полная симметрия — рай для перфекционистов. Geometria — тренд среди современных объемных рисунков и воплощение симметрии.Geometria не просто рисунок, а полная функциональность. Будь то модули для кухни или просто панели с рисунком для стены дающие возможность выделить определенные зоны в интерьере или в кухне.",
+    "characteristics": {
+      "fasadeTitle": "Фасад",
+      "fasadeDescribe": "МДФ толщиной 19 мм. в матовой эмали",
+      "drawingTitle": "Рисунок",
+      "drawingDescribe": "Geometria",
+      "enamelTitle": "Эмаль",
+      "enamelDescribe": "RAL 7005 Серый, но можно выбрать любой цвет по таблицам RAL и NCS",
+      "karkasTitle": "Каркас",
+      "karkasDescribe": "Дуб хантон темный",
+      "handleTitle": "Ручка",
+      "handleDescribe": "Ручка-профиль накладная и механизм Push-To-Open",
+      "tabletopTitle": "Столешница",
+      "tabletopDescribe": "Дуб хантон темный"
+    },
+    "possibleColorsTitle": "Рекомендованные цвета эмали",
+    "possibleColors": [
+      {
+        "possibleColorsImg": "/catalogKitchens/Geometria/imgColors/Aral1013.png",
+        "possibleColorsSubtitle": "A RAL 1013"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Geometria/imgColors/Bral1013.png",
+        "possibleColorsSubtitle": "B RAL 1013"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Geometria/imgColors/Cral1013.png",
+        "possibleColorsSubtitle": "C RAL 1013"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Geometria/imgColors/Aral5009.png",
+        "possibleColorsSubtitle": "A RAL 5009"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Geometria/imgColors/Bral5009.png",
+        "possibleColorsSubtitle": "B RAL 5009"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Geometria/imgColors/Cral5009.png",
+        "possibleColorsSubtitle": "C RAL 5009"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Geometria/imgColors/Aral6011.png",
+        "possibleColorsSubtitle": "A RAL 6011"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Geometria/imgColors/Bral6011.png",
+        "possibleColorsSubtitle": "B RAL 6011"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Geometria/imgColors/Cral6011.png",
+        "possibleColorsSubtitle": "C RAL 6011"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Geometria/imgColors/Aral6034.png",
+        "possibleColorsSubtitle": "A RAL 6034"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Geometria/imgColors/Bral6034.png",
+        "possibleColorsSubtitle": "B RAL 6034"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Geometria/imgColors/Cral6034.png",
+        "possibleColorsSubtitle": "C RAL 6034"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Geometria/imgColors/Aral7024.png",
+        "possibleColorsSubtitle": "A RAL 7024"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Geometria/imgColors/Bral7024.png",
+        "possibleColorsSubtitle": "B RAL 7024"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Geometria/imgColors/Cral7024.png",
+        "possibleColorsSubtitle": "C RAL 7024"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Geometria/imgColors/Aral9004.png",
+        "possibleColorsSubtitle": "A RAL 9004"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Geometria/imgColors/Bral9004.png",
+        "possibleColorsSubtitle": "B RAL 9004"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Geometria/imgColors/Cral9004.png",
+        "possibleColorsSubtitle": "C RAL 9004"
+      }
+
+    ]
+  },
+  {
+    "id": 4,
+    "title": "JESS",
+    "style": "Классические",
+    "cost": "246 000",
+    "materials": {
+      "fasade": "МДФ",
+      "karkas": "ЛДСП"
+    },
+    "images": [
+      "/catalogKitchens/JessFinal/imgKitchen/1.webp",
+      "/catalogKitchens/JessFinal/imgKitchen/2.webp",
+      "/catalogKitchens/JessFinal/imgKitchen/3.webp",
+      "/catalogKitchens/JessFinal/imgKitchen/4.webp",
+      "/catalogKitchens/JessFinal/imgKitchen/5.webp",
+      "/catalogKitchens/JessFinal/imgKitchen/6.webp"
+    ],
+    "alt": "JessFinal",
+    "description": "Jess — Современная классика. Отсутствие изогнутых форм и присутствие багета делает ее привлекательной и современной.В фасадах Jess  прослеживается дизайн американского стиля который характеризуется большими пространствами,  большим количеством шкафов и мест для хранения. Вдохновленные голливудскими фильмами  многие мечтали о такой кухне.Jess дополнила нашу коллекцию кухонь с фасадами в эмали. Она проработана до мелочей. В Jess есть свой шарм и для кого-то она станет кухней мечты.Благодаря тому, что фасад можно выкрасить в любой цвет по таблицам RAL и NCS применение Jess становится практически безграничным, а цвет может быть абсолютно индивидуальным.",
+    "characteristics": {
+      "fasadeTitle": "Фасад",
+      "fasadeDescribe": "МДФ, толщиной 19 мм.,  в матовой эмали",
+      "drawingTitle": "Рисунок",
+      "drawingDescribe": "Jess",
+      "glassTitle": "Стекло",
+      "glassDescribe": "Кафедрал",
+      "karkasTitle": "Каркас",
+      "karkasDescribe": "Дуб Эвок прибрежный",
+      "handleTitle": "Ручка",
+      "handleDescribe": "Скоба Жемчужно-серый RZ-287Z.128",
+      "tabletopTitle": "Столешница",
+      "tabletopDescribe": "2052 «Дуб вотан»"
+    },
+    "possibleColorsTitle": "Рекомендованные цвета эмали",
+    "possibleColors": [
+      {
+        "possibleColorsImg": "/catalogKitchens/JessFinal/imgColors/ral1015.jpeg",
+        "possibleColorsSubtitle": "RAL 1015"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/JessFinal/imgColors/ral5012.jpeg",
+        "possibleColorsSubtitle": "RAL 5012"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/JessFinal/imgColors/ral6005.jpeg",
+        "possibleColorsSubtitle": "RAL 6005"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/JessFinal/imgColors/ral6019.jpeg",
+        "possibleColorsSubtitle": "RAL 6019"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/JessFinal/imgColors/ral6034.jpeg",
+        "possibleColorsSubtitle": "RAL 6034"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/JessFinal/imgColors/ral7004.jpeg",
+        "possibleColorsSubtitle": "RAL 7004"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/JessFinal/imgColors/ral9001.jpeg",
+        "possibleColorsSubtitle": "RAL RAL 9001"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Nate",
+    "style": "Современные",
+    "cost": "312 000",
+    "materials": {
+      "fasade": "ЛДСП",
+      "karkas": "ЛДСП"
+    },
+    "images": [
+      "/catalogKitchens/Nate/imgKitchen/1.webp",
+      "/catalogKitchens/Nate/imgKitchen/2.webp",
+      "/catalogKitchens/Nate/imgKitchen/3.webp",
+      "/catalogKitchens/Nate/imgKitchen/4.webp",
+      "/catalogKitchens/Nate/imgKitchen/5.webp",
+      "/catalogKitchens/Nate/imgKitchen/6.webp",
+      "/catalogKitchens/Nate/imgKitchen/7.webp",
+      "/catalogKitchens/Nate/imgKitchen/8.webp",
+      "/catalogKitchens/Nate/imgKitchen/9.webp",
+      "/catalogKitchens/Nate/imgKitchen/10.webp"
+    ],
+    "alt": "Nate",
+    "description": "Классический дизайн в современной интерпретации создаёт неподвластный времени и при этом актуальный образ кухни «Nate» с фасадами австрийской  компании «Egger».Цветовая палитра материалов позволяет с легкостью комбинировать между собой различные материалы на Ваш вкус.",
+    "characteristics": {
+      "fasadeTitle": "Фасад",
+      "fasadeDescribe": "ЛДСП",
+      "colorTitle": "Цвет",
+      "colorDescribe": "Дуб Галифакс натуральный и Чикаго темный, Дуб Хантон темный и Чикаго светлый, Сосна касцина и Камень Пьетра",
+      "handleTitle": "Ручка",
+      "handleDescribe": "Капля Plate черная",
+      "tabletopTitle": "Столешница",
+      "tabletopDescribe": "EG Дуб Галифакс натуральный",
+      "furnitureTitle": "Петли и выкатные системы",
+      "furnitureDescribe": "Hettich"
+    },
+    "possibleColorsTitle": "Фасады ЛДСП",
+    "possibleColors": [
+      {
+        "possibleColorsImg": "/catalogKitchens/Nate/imgColors/antracit.png",
+        "possibleColorsSubtitle": "Антрацит"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Nate/imgColors/beige.png",
+        "possibleColorsSubtitle": "Бежевый"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Nate/imgColors/whiteShagren.png",
+        "possibleColorsSubtitle": "Белая шагрень"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Nate/imgColors/venge.png",
+        "possibleColorsSubtitle": "Венге"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Nate/imgColors/vintage.png",
+        "possibleColorsSubtitle": "Винтаж"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Nate/imgColors/oakShamonyLight.png",
+        "possibleColorsSubtitle": "Дуб шамони светлый"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Nate/imgColors/oakShamonyDark.png",
+        "possibleColorsSubtitle": "Дуб шамони тёмный"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Nate/imgColors/oakGalifaks.png",
+        "possibleColorsSubtitle": "Дуб галифакс натуральный"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Nate/imgColors/oakGrange.png",
+        "possibleColorsSubtitle": "Дуб гранж колониальный"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Nate/imgColors/oakHunton.png",
+        "possibleColorsSubtitle": "Дуб хантон"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Nate/imgColors/oakEvoq.png",
+        "possibleColorsSubtitle": "Дуб эвок прибрежный"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Nate/imgColors/gray.png",
+        "possibleColorsSubtitle": "Серый"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Nate/imgColors/sonoma.png",
+        "possibleColorsSubtitle": "Сонома"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Nate/imgColors/sosnaKasnica.png",
+        "possibleColorsSubtitle": "Сосна касница"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Nate/imgColors/black.png",
+        "possibleColorsSubtitle": "Чёрный"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Nate/imgColors/chikagoLight.png",
+        "possibleColorsSubtitle": "Чикаго светлый"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Nate/imgColors/chikagoDark.png",
+        "possibleColorsSubtitle": "Чикаго тёмный"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Nate/imgColors/whiteWood.png",
+        "possibleColorsSubtitle": "Выбеленное дерево"
+      }
+
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Neo",
+    "style": "Современные",
+    "cost": "303 000",
+    "materials": {
+      "fasade": "МДФ",
+      "karkas": "ЛДСП"
+    },
+    "images": [
+      "/catalogKitchens/Neo/imgKitchen/1.webp",
+      "/catalogKitchens/Neo/imgKitchen/2.webp",
+      "/catalogKitchens/Neo/imgKitchen/3.webp",
+      "/catalogKitchens/Neo/imgKitchen/4.webp",
+      "/catalogKitchens/Neo/imgKitchen/5.webp",
+      "/catalogKitchens/Neo/imgKitchen/6.webp",
+      "/catalogKitchens/Neo/imgKitchen/7.webp"
+    ],
+    "alt": "NEO",
+    "description": "NEO – современная коллекция мебели для кухни. Благодаря своей универсальности, она с легкостью вписывается в любой стиль интерьера и при этом остается привлекательной и высококачественной.Важными особенностями NEO являются современный дизайн и функциональность. Эта модель мебели выполнена из высококачественных материалов, таких как МДФ в пленке ПВХ.NEO отличается от традиционных моделей благодаря своим лаконичным формам, гармоничным сочетаниям цветов и фасадами в тонкой алюминиевой рамке, придающими кухне легкость и изящество. Дополнительную эффектность кухне придает подсветка шкафов – она создает особую атмосферу и комфорт в любое время суток.Особую роль в эксплуатации NEO играют выкатные системы Quadro и петли от Hettich. Они обеспечивают плавную и бесшумную работу кухонной мебели. Она не только выглядит прекрасно, но и функциональна, что является важным фактором при выборе мебели для кухни.Кратко говоря, модель NEO – это идеальный вариант для тех, кто ищет качественную и надежную мебель для кухни, сочетающую в себе современный дизайн и функциональность. Она станет незаменимым элементом интерьера и подарит радость и уют в каждый день.",
+    "characteristics": {
+      "fasadeTitle": "Фасад",
+      "fasadeDescribe": "МДФ толщиной 19 мм. в матовой пленке ПВХ",
+      "fasadeWithGlassTitle": "Фасад со стеклом",
+      "fasadeWithGlassDescribe": "Тонкая алюминиевая рамка 3 со стеклом стопсол «Бронза»",
+      "drawingTitle": "Рисунок",
+      "drawingDescribe": "Neo",
+      "colorTitle": "Цвет",
+      "colorDescribe": "Селенит",
+      "karkasTitle": "Каркас",
+      "karkasDescribe": "ЛДСП «Белая шагрень",
+      "addition": "В качестве декора на стены использовались панели AGT",
+      "handleTitle": "Ручка",
+      "handleDescribe": "Интегрированный в каркас профиль Gola в цвете «Золото»",
+      "tabletopTitle": "Столешница",
+      "tabletopDescribe": "0235 «Сохо» толщиной 38 мм",
+      "furnitureTitle": "Выкатные системы и петли",
+      "furnitureDescribe": "Hettich Quadro, а петли Hettich Sensys"
+    },
+    "possibleColorsTitle": "Пленки ПВХ",
+    "possibleColors": [
+      {
+        "possibleColorsImg": "/catalogKitchens/Neo/imgColors/bazalt.png",
+        "possibleColorsSubtitle": "Базальт"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Neo/imgColors/whiteMat.png",
+        "possibleColorsSubtitle": "Белая матовая"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Neo/imgColors/graphit.png",
+        "possibleColorsSubtitle": "Графит"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Neo/imgColors/ceramic.png",
+        "possibleColorsSubtitle": "Керамик"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Neo/imgColors/magnolia.png",
+        "possibleColorsSubtitle": "Магнолия"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Neo/imgColors/macarun.png",
+        "possibleColorsSubtitle": "Макарун"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Neo/imgColors/marris.png",
+        "possibleColorsSubtitle": "Миррис"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Neo/imgColors/moti.png",
+        "possibleColorsSubtitle": "Моти"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Neo/imgColors/pikrit.png",
+        "possibleColorsSubtitle": "Пикрит"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Neo/imgColors/pudra.png",
+        "possibleColorsSubtitle": "Пудра"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Neo/imgColors/riolit.png",
+        "possibleColorsSubtitle": "Риолит"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Neo/imgColors/tiramisu.png",
+        "possibleColorsSubtitle": "Тирамиссу"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Quadro",
+    "style": "Современные",
+    "cost": "189 000",
+    "materials": {
+      "karkas": "ЛДСП"
+    },
+    "images": [
+      "/catalogKitchens/Quadro/ldsp/imgKitchen/1.webp",
+      "/catalogKitchens/Quadro/ldsp/imgKitchen/2.webp",
+      "/catalogKitchens/Quadro/ldsp/imgKitchen/3.webp",
+      "/catalogKitchens/Quadro/ldsp/imgKitchen/4.webp",
+      "/catalogKitchens/Quadro/ldsp/imgKitchen/5.webp",
+      "/catalogKitchens/Quadro/ldsp/imgKitchen/6.webp"
+    ],
+    "alt": "Quadro-ldsp",
+    "description": "Отсутствие сложных элементов фасадов, простота построения и дизайна по истине олицетворяет цитату – «Все гениальное просто, и все простое гениально..».  Строгие и пряные линии фасадов делают набор мебели для кухни Quadro лаконичной и законченной. С такой кухней ни что вас не будет отвлекать от кулинарных шедевров",
+    "characteristics": {
+      "fasadeTitle": "Фасад",
+      "fasadeDescribe": "Сборный ЛДСП 22 мм. «Дуб шамони светлый»",
+      "karkasTitle": "Каркас",
+      "karkasDescribe": "ЛДСП «Дуб шамони светлый»",
+      "handleTitle": "Ручка",
+      "handleDescribe": "«Вензель цинк», 96 мм",
+      "tabletopTitle": "Столешница",
+      "tabletopDescribe": "0100 «Светлая доска»",
+      "glassTitle": "Стекло",
+      "glassDescribe": "«Простое»"
+    },
+    "possibleColorsTitle": "Фасады Cleo",
+    "possibleColors": [
+      {
+        "possibleColorsImg": "/catalogKitchens/Cleo/imgColors/possibleColorsSubtitle.png",
+        "possibleColorsSubtitle": "Альпийский белый"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Cleo/imgColors/whiteOak.png",
+        "possibleColorsSubtitle": "Дуб белёный"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Cleo/imgColors/black.png",
+        "possibleColorsSubtitle": "Чёрный"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Cleo/imgColors/blackOak.png",
+        "possibleColorsSubtitle": "Дуб чёрный"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Cleo/imgColors/brownOak.png",
+        "possibleColorsSubtitle": "Дуб тёмно-коричневый"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Cleo/imgColors/dustyGray.png",
+        "possibleColorsSubtitle": "Пыльный серый"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Cleo/imgColors/kashemirGrey.png",
+        "possibleColorsSubtitle": "Кашемир серый"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Cleo/imgColors/supermatWhite.png",
+        "possibleColorsSubtitle": "Супермат бежевый"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Cleo/imgColors/graphitBlack.png",
+        "possibleColorsSubtitle": "Графит чёрный"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Quadro TSS",
+    "style": "Современные",
+    "cost": "276 000",
+    "materials": {
+      "fasade": "МДФ",
+      "karkas": "ЛДСП"
+    },
+    "images": [
+      "/catalogKitchens/Quadro/tss/imgKitchen/1.webp",
+      "/catalogKitchens/Quadro/tss/imgKitchen/2.webp",
+      "/catalogKitchens/Quadro/tss/imgKitchen/3.webp",
+      "/catalogKitchens/Quadro/tss/imgKitchen/4.webp",
+      "/catalogKitchens/Quadro/tss/imgKitchen/5.webp",
+      "/catalogKitchens/Quadro/tss/imgKitchen/6.webp"
+    ],
+    "alt": "Quadro-tss",
+    "description": "Сборные фасады из TSS идеально имитируют фасады из ценных пород древесины благодаря полной синхронизации поверхности с натуральным материалом. Варианты оттенков позволят вписать кухню в различный интерьер. Например, привнести в свою кухню немного Греции - сочетание теплого моря и летнего настроения.",
+    "characteristics": {
+      "fasadeTitle": "Фасад",
+      "fasadeDescribe": "Сборный TSS  С3096 «Bianco» и A023 «Zante»",
+      "karkasTitle": "Каркас",
+      "karkasDescribe": "Белая шагрень",
+      "handleTitle": "Ручка",
+      "handleDescribe": "FS-193 черная матовая",
+      "tabletopTitle": "Столешница",
+      "tabletopDescribe": "FC-13 «Белый мрамор» и S001 «Светлая ель»"
+    },
+    "possibleColorsTitle": "Фасады Cleo",
+    "possibleColors": [
+      {
+        "possibleColorsImg": "/catalogKitchens/Cleo/imgColors/possibleColorsSubtitle.png",
+        "possibleColorsSubtitle": "Альпийский белый"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Cleo/imgColors/whiteOak.png",
+        "possibleColorsSubtitle": "Дуб белёный"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Cleo/imgColors/black.png",
+        "possibleColorsSubtitle": "Чёрный"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Cleo/imgColors/blackOak.png",
+        "possibleColorsSubtitle": "Дуб чёрный"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Cleo/imgColors/brownOak.png",
+        "possibleColorsSubtitle": "Дуб тёмно-коричневый"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Cleo/imgColors/dustyGray.png",
+        "possibleColorsSubtitle": "Пыльный серый"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Cleo/imgColors/kashemirGrey.png",
+        "possibleColorsSubtitle": "Кашемир серый"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Cleo/imgColors/supermatWhite.png",
+        "possibleColorsSubtitle": "Супермат бежевый"
+      },
+      {
+        "possibleColorsImg": "/catalogKitchens/Cleo/imgColors/graphitBlack.png",
+        "possibleColorsSubtitle": "Графит чёрный"
+      }
+    ]
+  }
+]

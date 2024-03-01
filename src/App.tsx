@@ -1,26 +1,58 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Main from "./pages/Main";
+import {Routes, Route} from "react-router-dom";
+import Layout from "./components/Layout";
+import CatalogKitchens from "./pages/CatalogKitchens";
+import {Box} from "@chakra-ui/react";
+import CatalogKitchenCard from "./components/catalogKitchenCard/CatalogKitchenCard";
+import CompletedKitchens from "./pages/CompletedKitchens";
+import ScrollToTop from "./helpers/scrollToTop";
+import CompletedKitchenCard from "./components/completedKitchenCard/CompletedKitchenCard";
+import Contacts from "./pages/Contacts";
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <Box bgColor='#F9FDFF'>
+      <Box>
+        <Routes>
+          <Route path='/' element={<Layout/>}>
+            <Route index element={<Main/>}/>
+            <Route path='/catalog' element={
+              <>
+                <ScrollToTop/>
+                <CatalogKitchens/>
+              </>
+            }/>
+            <Route path='/completed' element={
+              <>
+                <ScrollToTop/>
+                <CompletedKitchens/>
+              </>
+            }/>
+            <Route path='/contacts' element={
+              <>
+                <ScrollToTop/>
+                <Contacts/>
+              </>
+            }/>
+            <Route path='/catalog/:title' element={
+              <>
+                <ScrollToTop/>
+                <CatalogKitchenCard/>
+              </>
+            }/>
+            <Route path='/completed/:title' element={<CompletedKitchenCard/>}/>
+
+          </Route>
+        </Routes>
+
+      </Box>
+
+    </Box>
+
+  )
+    ;
 }
 
 export default App;
